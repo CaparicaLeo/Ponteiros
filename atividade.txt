@@ -1,0 +1,12 @@
+A1. Na linha 4, imprime 5. Na linha 5, se imprime 0x61ff08, 
+o endereço de memória da variável.
+A2. Nas linhas 4 a 6, se imprime os endereços de memória das devidas variáveis.
+A3. Nas linhas 6 e 8, se imprime o número 55. Já na linha, 
+se imprime o endereço de memória da variável num.
+
+B1. Letra D
+B2. Letra C
+B3. Letra B, uma variavel atribui um o objeto de um ponteiro.
+    Letra E, declara uma variavel para o objeto de um ponteiro.
+
+C. Afrimativa 5. 
